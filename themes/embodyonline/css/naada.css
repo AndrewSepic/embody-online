@@ -518,7 +518,7 @@ ul.menu-primary ul > li.menu-item-has-children > a:after {
 }
 
 .header-image .site-title > a {
-  background: url("../images/logo@2x.png") no-repeat left;
+  background: url("../images/logo.png") no-repeat left;
   width: 360px;
   background-size: cover;
 }
