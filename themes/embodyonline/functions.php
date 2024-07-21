@@ -14,7 +14,7 @@ function genesischild_theme_setup() {
 
 	//* Reposition the primary navigation menu & remove secondary nav
 	remove_action( 'genesis_after_header', 'genesis_do_nav' );
-  remove_action( 'genesis_after_header', 'genesis_do_subnav' );
+  	remove_action( 'genesis_after_header', 'genesis_do_subnav' );
 	add_action( 'genesis_before', 'genesis_do_nav' );
 
 	add_action( 'get_header', 'child_remove_page_titles' );
