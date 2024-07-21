@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Naada 2016
+ Theme URI:    http://naada.ca
+ Description:  Genesis Child theme for Naada Yoga
+ Author:       Andrew Sepic & Paul Cooper
+ Author URI:   http://thinkupdesign.ca
+ Template:     genesis
+ Version:      2.0.0
+ Text Domain:  naada-yoga-theme
+*/
+
+
+@import url("../genesis/style.css");
+
+@import url("../naada2016/css/genericons.css");
+
+@import url("css/naada.css");
+
+/* Temp files for development */
+/* @import url("css/andrew.css");
+@import url("css/roy.css"); */

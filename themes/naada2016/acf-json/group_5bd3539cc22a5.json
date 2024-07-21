@@ -1,0 +1,306 @@
+{
+    "key": "group_5bd3539cc22a5",
+    "title": "Landing Pages",
+    "fields": [
+        {
+            "key": "field_5873e597a1fd9",
+            "label": "Naada Presents",
+            "name": "naada_presents",
+            "type": "text",
+            "instructions": "This intro text gives context to the course as an offering of Naada's Online Yoga Education. It precedes the course title.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Naada Yoga's online education program presents",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "formatting": "html",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5873eb0f00fb0",
+            "label": "Hero Image",
+            "name": "hero_image",
+            "type": "image",
+            "instructions": "This is the main image upon which the landing page is focused (title is placed ontop).",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "preview_size": "thumbnail",
+            "library": "all",
+            "return_format": "url",
+            "min_width": 0,
+            "min_height": 0,
+            "min_size": 0,
+            "max_width": 0,
+            "max_height": 0,
+            "max_size": 0,
+            "mime_types": ""
+        },
+        {
+            "key": "field_5873e636a1fda",
+            "label": "Course Short Description",
+            "name": "course_short_description",
+            "type": "textarea",
+            "instructions": "This short paragraph is a crucial telling of the course as an offering. It should be clear, concise and appealing.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Put in your course description here.",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": "br"
+        },
+        {
+            "key": "field_5873e682a1fdb",
+            "label": "Course CTA",
+            "name": "course_cta",
+            "type": "text",
+            "instructions": "This short phrase encourages the user to take action..",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Something like 'Start learning from home today...'",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "formatting": "html",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5873e6c4a1fdc",
+            "label": "Course ID",
+            "name": "course_id",
+            "type": "text",
+            "instructions": "What's the ID of the course?  All Products (posts and pages too) have ID's.  Insert that ID # here",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "formatting": "html",
+            "maxlength": ""
+        },
+        {
+            "key": "field_58b9a3b29c3d6",
+            "label": "Testimonial",
+            "name": "testimonial",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": "br"
+        },
+        {
+            "key": "field_58b9a3cd9c3d7",
+            "label": "Testimonial Author",
+            "name": "testimonial_author",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "formatting": "none",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5873e771a1fde",
+            "label": "Vimeo Embed",
+            "name": "vimeo_embed",
+            "type": "text",
+            "instructions": "Paste in the vimeo embed code for the intro video of this course.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "formatting": "html",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5873e792a1fdf",
+            "label": "What You'll Receive Information",
+            "name": "receive",
+            "type": "textarea",
+            "instructions": "Please make a listing of all items that the users get's with this course.  Each list item should be wrapped in <li><\/li> tags.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        },
+        {
+            "key": "field_5873e7f4a1fe0",
+            "label": "Curriculum1",
+            "name": "curriculum1",
+            "type": "textarea",
+            "instructions": "Paste in a listing of the first half of the curriculum broken down into <li><\/li> tags.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        },
+        {
+            "key": "field_5873e82ba1fe1",
+            "label": "Curriculum2",
+            "name": "curriculum2",
+            "type": "textarea",
+            "instructions": "Paste in the second half of the curriculum with items wrapped in <li><\/li> tags.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        },
+        {
+            "key": "field_5873e85212daa",
+            "label": "CEU Message",
+            "name": "ceu_message",
+            "type": "text",
+            "instructions": "This is the large message which denotes how many CEU\"s this course qualifies for.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "This course qualifies for X CEU's via the Yoga Alliance.",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "formatting": "html",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5873e88e12dab",
+            "label": "Instructor Pic",
+            "name": "instructor_pic",
+            "type": "image",
+            "instructions": "Upload image of the instructor for their profile area.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "preview_size": "thumbnail",
+            "library": "all",
+            "return_format": "url",
+            "min_width": 0,
+            "min_height": 0,
+            "min_size": 0,
+            "max_width": 0,
+            "max_height": 0,
+            "max_size": 0,
+            "mime_types": ""
+        },
+        {
+            "key": "field_5873e8b712dac",
+            "label": "Instructor Bio",
+            "name": "instructor_bio",
+            "type": "textarea",
+            "instructions": "Paste in the entirety of the Instructor's bio.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "page_template",
+                "operator": "==",
+                "value": "landing.php"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "seamless",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1589153358
+}

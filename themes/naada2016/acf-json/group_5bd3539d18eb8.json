@@ -1,0 +1,43 @@
+{
+    "key": "group_5bd3539d18eb8",
+    "title": "Vimeo Embed",
+    "fields": [
+        {
+            "key": "field_5703c4c129772",
+            "label": "Vimeo Embed",
+            "name": "vimeo_embed",
+            "type": "textarea",
+            "instructions": "Paste in your Vimeo embed code and this will be used as the 'product image' for the course.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "Embed Code here",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "product"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "seamless",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1589153379
+}
